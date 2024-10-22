@@ -19,4 +19,4 @@ for n in lista:
     if(n) < minimo:
         minimo = n
 
-print('O maior valor é: ', maximo , ' o menor valor é: ', minimo)            
+print(f'O maior valor é: {maximo} e o menor valor é: {minimo}')            
