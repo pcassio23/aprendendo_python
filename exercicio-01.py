@@ -19,7 +19,4 @@ for n in lista:
     if(n) < minimo:
         minimo = n
 
-for l in lista:
-    print(l)
-
 print('O maior valor é: ', maximo , ' o menor valor é: ', minimo)            
